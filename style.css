@@ -177,6 +177,7 @@ a { color: inherit; text-decoration: none; }
   /* Hide old dropdown; use drawer instead */
   .site-nav { display: none !important; }
   .site-nav ul { display: none; }
+  .btn-cta { display: none; }
 }
 @media (min-width: 900px) {
   .nav-toggle-btn { display: none; }
